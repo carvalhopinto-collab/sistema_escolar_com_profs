@@ -7,6 +7,24 @@
       "cpf": "123.456.789-00",
       "data_nascimento": "2007-05-14",
       "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
+    },
+    {
+      "nome": "Gustavo Maia",
+      "email": "gustavomaia@email.com",
+      "cpf": "10493795430",
+      "data_nascimento": "2000-05-03",
+      "endereco": "Avenida Brasil",
+      "id": 2
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "José Ferreira",
+      "email": "joseferreira@email.com",
+      "cpf": "123.456.789-00",
+      "disciplina": "Matemática",
+      "data_admissao": "2026-03-01"
     }
   ]
 }
